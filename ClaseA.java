@@ -9,4 +9,9 @@ public classA{
     y=0;
     codigo="";
    }
+
+	public void mensaje(){
+
+	System.out.ptint("hola");
+	}
 }
